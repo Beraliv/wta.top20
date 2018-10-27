@@ -3,7 +3,7 @@
 ## Top 20
 
 I researched the index page of the website which is loaded by default
-The metrics is generated with [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+The metrics are generated with [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
 | \# | Name | Performance | PWA | Accessibility | SEO | Platform | JS Framework | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ The metrics is generated with [Lighthouse](https://developers.google.com/web/too
 
 ### By performance
 
-I only included those websites which has performance metrics within range `90-100`
+I only included those websites which have performance metrics within range `90-100`
 
 | \# | Name | *__Performance__* | PWA | Accessibility | SEO | Platform | JS Framework | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Here there is a poor support of PWA. The biggest score is `58` for some reason.
 
 ### By accessibility
 
-I only included those websites which has accessibility metrics within range `70-90`
+I only included websites which have accessibility metrics within range `70-90`
 
 | \# | Name | Performance | PWA | *__Accessibility__* | SEO | Platform | JS Framework | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ I only included those websites which has accessibility metrics within range `70-
 ### By design
 
 Here I want to sum up all the metrics above
-As for me website should be minimalistic, adaptive to work on all devices
+As for me a website should be minimalistic, adaptive to all devices
 Anyway it's my vision and I just want to show it
 
 | \# | Name | Performance | PWA | Accessibility | SEO | Platform | JS Framework | Link |
